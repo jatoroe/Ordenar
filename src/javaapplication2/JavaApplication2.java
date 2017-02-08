@@ -35,9 +35,7 @@ public class JavaApplication2 {
             return d;
     } 
     public static void main(String[] args) {
-      
-        System.out.println("hola mundo");
-        
-        }
+        int ordenarNumeros = ordenarNumeros(2, 4 ,6);
+    }
 
     
